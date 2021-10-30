@@ -1,20 +1,20 @@
 export default [
   {
     id: "1",
-    title: "Apples x lb",
-    price: 2.1,
+    title: "Ceviche Mixto - Lo mas frescos productos en su paladar",
+    price: 8.5,
     offerPrice: null,
     stock: 12,
-    img: "apples.jpg",
+    img: "ceviche.jpg",
     category: "fruits",
   },
   {
     id: "2",
-    title: "bliquam feugiat dui non",
-    price: 4.88,
-    offerPrice: 3.88,
+    title: "Arroz con Mariscos - Todos los productos son frescos y de calidad",
+    price: 15.99,
+    offerPrice: 9.99,
     stock: 12,
-    img: "baby.jpg",
+    img: "arroz.jpg",
     category: "vegetable",
   },
   {
