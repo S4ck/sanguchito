@@ -25,7 +25,7 @@ export default function CartItem({ item }) {
       </Box>
 
       <Text fontSize="lg" fontWeight="medium" position="absolute" bottom="10px" right="12px">
-        $ {itemTotal}
+        S/ {itemTotal}
       </Text>
 
       <CloseButton size="sm" position="absolute" top="10px" right="12px" onClick={() => setCart({ item, n: 0 })} />
