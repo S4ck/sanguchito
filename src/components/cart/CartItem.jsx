@@ -19,7 +19,7 @@ export default function CartItem({ item }) {
           {title}
         </Text>
 
-        <Text fontSize="sm">Unit Price ${offerPrice || price}</Text>
+        <Text fontSize="sm">Precio Und S/{offerPrice || price}</Text>
 
         <CounterBtn type="cart" item={item} />
       </Box>
