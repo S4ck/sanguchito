@@ -1,6 +1,19 @@
 export default function Logo({ width = 100 }) {
   return (
     <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width={width} viewBox="0 0 95.6 34.7">
+    import React, { Component } from 'react';
+import logo from '../logo.jpg';
+export default class Header extends Component {
+  render() {
+    return (
+      <div className="row">
+        <div className="logo">
+          <img src={logo} width="100" height="100" />
+        </div>
+      </div>
+    );
+  }
+} 
     {/*   <defs>
         <clipPath id="clip-path">
           <rect width="95.6" height="34.7" fill="none" />
