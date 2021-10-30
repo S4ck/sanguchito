@@ -18,7 +18,7 @@ export default function ItemCard({ item }) {
     if (counter === 1 && isAdded === "noAdded") {
       toast({
         position: "bottom-left",
-        title: "Item Added to Cart.",
+        title: "Producto Agregado.",
         status: "success",
         duration: 1500,
       });
@@ -26,7 +26,7 @@ export default function ItemCard({ item }) {
     } else if (counter === 0 && isAdded === "added") {
       toast({
         position: "bottom-left",
-        title: "Item Removed to Cart.",
+        title: "Producto Removido.",
         status: "error",
         duration: 1500,
       });
@@ -54,7 +54,7 @@ export default function ItemCard({ item }) {
       >
         {offerPrice && (
           <Badge size="" variant="solid" variantColor="red" position="absolute" px="2" top="10px" right="10px">
-            SALE
+            OFERTA
           </Badge>
         )}
 
@@ -65,11 +65,11 @@ export default function ItemCard({ item }) {
         <Box w="85%" my="3">
           <Flex align="flex-end">
             <Text fontSize="md" fontWeight="medium">
-              ${offerPrice || price}
+              S/{offerPrice || price}
             </Text>
             {offerPrice && (
               <Text ml="1" fontSize="sm" fontWeight="medium" as="del" color="gray.400">
-                ${price}
+                S/{price}
               </Text>
             )}
           </Flex>
