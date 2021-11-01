@@ -15,7 +15,7 @@ export default [
     offerPrice: 9.99,
     stock: 12,
     img: "arroz.jpg",
-    category: "fruits",
+    category: "vegetable",
   },
   {
     id: "3",
@@ -24,7 +24,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "trio.jpg",
-    category: "fruits",
+    category: "vegetable",
   },
   {
     id: "4",
@@ -33,7 +33,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "trio2.jpg",
-    category: "fruits",
+    category: "vegetable",
   },
   {
     id: "5",
