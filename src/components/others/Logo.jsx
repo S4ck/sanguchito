@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         {/*Aqui utilizamos la url donde esta alojada la imagen*/}
-        <img src="./public/images/logo.svg" />
+        <img src="images/logo.svg" />
       </div>
     );
   }
