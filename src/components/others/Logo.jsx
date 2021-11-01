@@ -1,12 +1,4 @@
-// Assuming logo.jpg is in the same folder as JS file
 export default function Logo({ width = 100 }) {
-import logo from '../images/logo.jpg';
-
-// ...later
-<img src={logo} alt="logo" />
-
-}
-{/* export default function Logo({ width = 100 }) {
   return (
     <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width={width} viewBox="0 0 95.6 34.7">
      <defs>
@@ -47,4 +39,4 @@ import logo from '../images/logo.jpg';
       </g> 
     </svg>
   );
-} */}
+}
