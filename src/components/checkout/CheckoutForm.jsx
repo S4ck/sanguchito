@@ -108,10 +108,10 @@ function CheckoutForm() {
                   ref={register(validations.city)}
                   isInvalid={errors.city ? true : false}
                 >
-                  <option value="option1">Carquín</option>
-                  <option value="option2">Huacho</option>
-                  <option value="option3">Hualmay</option>
-                  <option value="option4">Huaura</option>
+                  <option value="option1"> Carquín </option>
+                  <option value="option2"> Huacho </option>
+                  <option value="option3"> Hualmay </option>
+                  <option value="option4"> Huaura </option>
                 </Select>
               </InputGroup>
               {errors.city && (
@@ -130,10 +130,10 @@ function CheckoutForm() {
                   ref={register(validations.schedule)}
                   isInvalid={errors.schedule ? true : false}
                 >
-                  <option value="option1">Desayuno 7:00 - 10:00 am</option>
-                  <option value="option2">Almuerzo 12:00 - 2:00 pm</option>
-                  <option value="option3">Lonche 4:00 - 6:00 pm</option>
-                  <option value="option4">Cena 7:00 - 10:00 pm</option>
+                  <option value="option1"> Desayuno 7:00 - 10:00 am </option>
+                  <option value="option2"> Almuerzo 12:00 - 2:00 pm </option>
+                  <option value="option3"> Lonche 4:00 - 6:00 pm </option>
+                  <option value="option4"> Cena 7:00 - 10:00 pm </option>
                 </Select>
               </InputGroup>
               {errors.schedule && (

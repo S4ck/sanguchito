@@ -17,11 +17,11 @@ export const getFormValidations = () => {
         message: "Max Length 20 chars",
       },
       minLength: {
-        value: 5,
-        message: "Min Length 5 chars",
+        value: 4,
+        message: "Min Length 4 chars",
       },
       pattern: {
-        value: /^[A-Za-z ]{5,20}$/,
+        value: /^[A-Za-z ]{4,20}$/,
         message: "Icorrect Name",
       },
     },
@@ -33,15 +33,15 @@ export const getFormValidations = () => {
         message: "Phone is required",
       },
       maxLength: {
-        value: 20,
-        message: "Max Length 20 chars",
+        value: 12,
+        message: "Max Length 12 chars",
       },
       minLength: {
-        value: 5,
-        message: "Min Length 5 chars",
+        value: 7,
+        message: "Min Length 7 chars",
       },
       pattern: {
-        value: /^[0-9]{5,20}$/,
+        value: /^[0-9]{7,12}$/,
         message: "Icorrect Phone",
       },
     },
@@ -52,15 +52,15 @@ export const getFormValidations = () => {
         message: "Address is required",
       },
       maxLength: {
-        value: 20,
-        message: "Max Length 20 chars",
+        value: 30,
+        message: "Max Length 30 chars",
       },
       minLength: {
-        value: 5,
-        message: "Min Length 5 chars",
+        value: 4,
+        message: "Min Length 4 chars",
       },
       pattern: {
-        value: /^[0-9a-zA-Z ]{5,20}$/,
+        value: /^[0-9a-zA-Z ]{4,20}$/,
         message: "Icorrect Address",
       },
     },

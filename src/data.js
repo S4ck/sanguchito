@@ -3,7 +3,7 @@ export default [
     id: "1",
     title: "Ceviche Mixto",
     price: 8.5,
-    offerPrice: null,
+    offerPrice: 8.00,
     stock: 12,
     img: "ceviche.jpg",
     category: "fruits",
