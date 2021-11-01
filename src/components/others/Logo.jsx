@@ -1,21 +1,3 @@
-import React, { Component } from 'react';
-import './App.css';
-
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        {/*Aqui utilizamos la url donde esta alojada la imagen*/}
-        <img src="images/logo.svg" />
-      </div>
-    );
-  }
-}
-
-export default App;
-
-
-{/*
 export default function Logo({ width = 100 }) {
   return (
     <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width={width} viewBox="0 0 95.6 34.7">
@@ -58,4 +40,3 @@ export default function Logo({ width = 100 }) {
     </svg>
   );
 }
-*/}
