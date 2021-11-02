@@ -10,7 +10,7 @@ export default function Logo({ width = 100 }) {
         
         <linearGradient id="linear-gradient" x1="-0.124" y1="-0.31" x2="0.882" y2="1.208" gradientUnits="objectBoundingBox">
           <stop offset="0" />
-          <stop offset="1" stopColor="#000080" />
+          <stop offset="1" stopColor="#284CCB" />
         </linearGradient>
         <linearGradient id="linear-gradient-2" x1="-0.017" y1="0.199" x2="1.038" y2="1" gradientUnits="objectBoundingBox">
           <stop offset="0" stopColor="#db2828" />
