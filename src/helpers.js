@@ -13,15 +13,15 @@ export const getFormValidations = () => {
         message: "Name is required",
       },
       maxLength: {
-        value: 20,
-        message: "Max Length 20 chars",
+        value: 30,
+        message: "Max Length 30 chars",
       },
       minLength: {
         value: 4,
         message: "Min Length 4 chars",
       },
       pattern: {
-        value: /^[A-Za-z ]{4,20}$/,
+        value: /^[A-Za-z ]{4,30}$/,
         message: "Incorrect Name",
       },
     },
