@@ -22,7 +22,7 @@ export const getFormValidations = () => {
       },
       pattern: {
         value: /^[A-Za-z ]{4,20}$/,
-        message: "Icorrect Name",
+        message: "Incorrect Name",
       },
     },
 
@@ -104,8 +104,8 @@ export function getWspUrl(orderData) {
     });
   }
 
-  const WSP_URL = `https://api.whatsapp.com/send/?phone=${N}&text=%2A${"Order"}%3A%2A%20${ID}%0A%0A%2A${"Cliente"}%3A%2A%20${name}%0A%0A%2A${"Teléfono"}%3A%2A%20${phone}%0A%0A%2A${
-    withDelivery ? "ADirección" + "%3A%2A%20" + address + " %0A%0A%2A" : ""
+  const WSP_URL = `https://api.whatsapp.com/send/?phone=${N}&text=%2A${"Orden"}%3A%2A%20${ID}%0A%0A%2A${"Cliente"}%3A%2A%20${name}%0A%0A%2A${"Teléfono"}%3A%2A%20${phone}%0A%0A%2A${
+    withDelivery ? "Dirección" + "%3A%2A%20" + address + " %0A%0A%2A" : ""
   }${withDelivery ? "Ciudad" + "%3A%2A%20" + city + "%0A%0A%2A" : ""}${
     withDelivery ? "Horario" + "%3A%2A%20" + schedule + "%0A%0A%2A" : ""
   }${comment ? "Comentario" + "%3A%2A%20" + comment + "%0A%0A%2A" : ""}${"Items List"}%3A%2A${cartListforUrl}%0A%0A%2A${
