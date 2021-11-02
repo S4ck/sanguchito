@@ -6,7 +6,7 @@ export default [
     offerPrice: 8.00,
     stock: 12,
     img: "ceviche.jpg",
-    category: "fruits",
+    category: "ceviche",
   },
   {
     id: "2",
@@ -15,7 +15,7 @@ export default [
     offerPrice: 9.99,
     stock: 12,
     img: "arroz.jpg",
-    category: "vegetable",
+    category: "crocante",
   },
   {
     id: "3",
@@ -24,7 +24,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "trio.jpg",
-    category: "vegetable",
+    category: "crocante",
   },
   {
     id: "4",
@@ -33,7 +33,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "trio2.jpg",
-    category: "vegetable",
+    category: "crocante",
   },
   {
     id: "5",
@@ -42,7 +42,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "sudado.jpg",
-    category: "fruits",
+    category: "caliente",
   },
   {
     id: "6",
@@ -51,7 +51,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "chupe.jpg",
-    category: "fruits",
+    category: "caliente",
   },
   {
     id: "7",
@@ -60,7 +60,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "cevichepato.jpg",
-    category: "meat",
+    category: "criollo",
   },
   {
     id: "8",
@@ -69,7 +69,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "carrot.jpg",
-    category: "vegetable",
+    category: "crocante",
   },
   {
     id: "9",
@@ -78,7 +78,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "celery.jpg",
-    category: "vegetable",
+    category: "crocante",
   },
   {
     id: "11",
@@ -87,7 +87,7 @@ export default [
     offerPrice: 6.88,
     stock: 12,
     img: "cherry.jpg",
-    category: "fruits",
+    category: "ceviche",
   },
   {
     id: "22",
@@ -96,7 +96,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "chicken.jpg",
-    category: "meat",
+    category: "criollo",
   },
   {
     id: "33",
@@ -105,7 +105,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "chicken2.jpg",
-    category: "meat",
+    category: "criollo",
   },
   {
     id: "44",
@@ -114,7 +114,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "clemen.jpg",
-    category: "fruits",
+    category: "ceviche",
   },
   {
     id: "55",
@@ -123,7 +123,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "cod.jpg",
-    category: "meat",
+    category: "criollo",
   },
   {
     id: "66",
@@ -132,7 +132,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "corn.jpg",
-    category: "vegetable",
+    category: "crocante",
   },
   {
     id: "77",
@@ -141,7 +141,7 @@ export default [
     offerPrice: 2.5,
     stock: 12,
     img: "cucumber.jpg",
-    category: "vegetable",
+    category: "crocante",
   },
   {
     id: "88",
@@ -150,7 +150,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "dates.jpg",
-    category: "fruits",
+    category: "ceviche",
   },
   {
     id: "99",
@@ -159,7 +159,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "fish.jpg",
-    category: "meat",
+    category: "criollo",
   },
   {
     id: "00",
@@ -168,7 +168,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "fish2.jpg",
-    category: "meat",
+    category: "criollo",
   },
   {
     id: "111",
@@ -177,7 +177,7 @@ export default [
     offerPrice: 3.25,
     stock: 12,
     img: "fish3.jpg",
-    category: "meat",
+    category: "criollo",
   },
   {
     id: "222",
@@ -186,7 +186,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "lemon.jpg",
-    category: "fuits",
+    category: "ceviche",
   },
   {
     id: "333",
@@ -195,7 +195,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "lime.jpg",
-    category: "fruits",
+    category: "ceviche",
   },
   {
     id: "444",
@@ -204,7 +204,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "mango.jpg",
-    category: "fruits",
+    category: "ceviche",
   },
   {
     id: "555",
@@ -213,7 +213,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "meat.jpg",
-    category: "meat",
+    category: "criollo",
   },
   {
     id: "666",
@@ -222,7 +222,7 @@ export default [
     offerPrice: 4.0,
     stock: 12,
     img: "meat2.jpg",
-    category: "meat",
+    category: "criollo",
   },
   {
     id: "777",
@@ -231,7 +231,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "meat3.jpg",
-    category: "meat",
+    category: "criollo",
   },
   {
     id: "888",
@@ -240,7 +240,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "mix.jpg",
-    category: "vegetable",
+    category: "crocante",
   },
   {
     id: "999",
@@ -249,7 +249,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "pears.jpg",
-    category: "fruits",
+    category: "ceviche",
   },
   {
     id: "000",
@@ -258,7 +258,7 @@ export default [
     offerPrice: 3.99,
     stock: 12,
     img: "pepper.jpg",
-    category: "vegetable",
+    category: "crocante",
   },
   {
     id: "1111",
@@ -267,7 +267,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "salmon.jpg",
-    category: "meat",
+    category: "criollo",
   },
 
   {
@@ -277,7 +277,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "bread.jpg",
-    category: "bakery",
+    category: "postre",
   },
   {
     id: "bread2",
@@ -286,7 +286,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "bread2.jpg",
-    category: "bakery",
+    category: "postre",
   },
   {
     id: "bread3",
@@ -295,7 +295,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "bread3.jpg",
-    category: "bakery",
+    category: "postre",
   },
   {
     id: "toast",
@@ -304,7 +304,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "toast.jpg",
-    category: "bakery",
+    category: "postre",
   },
   {
     id: "toast2",
@@ -313,7 +313,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "toast2.jpg",
-    category: "bakery",
+    category: "postre",
   },
   {
     id: "cookies",
@@ -322,7 +322,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "cookies.jpg",
-    category: "bakery",
+    category: "postre",
   },
   {
     id: "cookies2",
@@ -331,7 +331,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "cookies2.jpg",
-    category: "bakery",
+    category: "postre",
   },
   {
     id: "cookies3",
@@ -340,7 +340,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "cookies3.jpg",
-    category: "bakery",
+    category: "postre",
   },
   {
     id: "muffin",
@@ -349,7 +349,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "muffin.jpg",
-    category: "bakery",
+    category: "postre",
   },
 
   {
@@ -359,7 +359,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "muffin2.jpg",
-    category: "bakery",
+    category: "postre",
   },
 
   {
@@ -369,7 +369,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "muffin3.jpg",
-    category: "bakery",
+    category: "postre",
   },
 
   {
@@ -379,7 +379,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "cocacola1lt.jpg",
-    category: "drink",
+    category: "bebida",
   },
 
   {
@@ -389,7 +389,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "incakola1lt.jpg",
-    category: "drink",
+    category: "bebida",
   },
 
   {
@@ -399,7 +399,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "coffe2.jpg",
-    category: "drink",
+    category: "bebida",
   },
 
   {
@@ -409,7 +409,7 @@ export default [
     offerPrice: null,
     stock: 12,
     img: "coffe3.jpg",
-    category: "drink",
+    category: "bebida",
   },
 
   {
@@ -419,6 +419,6 @@ export default [
     offerPrice: 2.1,
     stock: 12,
     img: "coffe4.jpg",
-    category: "drink",
+    category: "bebida",
   },
 ];
