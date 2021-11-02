@@ -60,7 +60,7 @@ export const getFormValidations = () => {
         message: "Min Length 4 chars",
       },
       pattern: {
-        value: /^[0-9a-zA-Z´#]{4,40}$/,
+        value: /^[0-9a-zA-Z´# ]{4,40}$/,
         message: "Icorrect Address",
       },
     },
