@@ -130,7 +130,7 @@ function CheckoutForm() {
                   ref={register(validations.schedule)}
                   isInvalid={errors.schedule ? true : false}
                 >
-                  <option value="option1"> Desayuno 7:00 - 10:00 am </option>
+                  <option value="Desayuno"> Desayuno 7:00 - 10:00 am </option>
                   <option value="option2"> Almuerzo 12:00 - 2:00 pm </option>
                   <option value="option3"> Lonche 4:00 - 6:00 pm </option>
                   <option value="option4"> Cena 7:00 - 10:00 pm </option>
