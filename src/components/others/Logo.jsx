@@ -44,7 +44,7 @@ export default function Logo({ width = 100 }) {
               transform="translate(-1.16 34.4)"
               fill="url(#linear-gradient-2)" */
 
-              transform="translate(-0.16 14.4)"
+              transform="translate(-0.36 14.4)"
               fill="url(#linear-gradient)"
               
             />
