@@ -9,12 +9,12 @@ export const selectedCategory = atom({
 
 export const orderOptions = atom({
   key: "orderOptions",
-  default: ["Ascending", "Descending", "Min Price", "Max Price"],
+  default: ["Ascendente", "Descendente", "Min Precio", "Max Precio"],
 });
 
 export const sortMode = atom({
   key: "sortMode",
-  default: "Ascending",
+  default: "Ascendente",
 });
 
 export const searchValue = atom({
