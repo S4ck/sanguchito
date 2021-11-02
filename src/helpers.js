@@ -108,7 +108,7 @@ export function getWspUrl(orderData) {
     withDelivery ? "Dirección" + "%3A%2A%20" + address + " %0A%0A%2A" : ""
   }${withDelivery ? "Ciudad" + "%3A%2A%20" + city + "%0A%0A%2A" : ""}${
     withDelivery ? "Horario" + "%3A%2A%20" + schedule + "%0A%0A%2A" : ""
-  }${comment ? "Comentario" + "%3A%2A%20" + comment + "%0A%0A%2A" : ""}${"Items List"}%3A%2A${cartListforUrl}%0A%0A%2A${
+  }${comment ? "Comentario" + "%3A%2A%20" + comment + "%0A%0A%2A" : ""}${"Lista de Pedido"}%3A%2A${cartListforUrl}%0A%0A%2A${
     withDelivery ? "Sub Total" + "%3A%2A%20S/" + subTotal + " %0A%0A%2A" : ""
   }${withDelivery ? "Fast Delivery" + "%3A%2A%20S/" + shippingCost + " %0A%0A%2A" : ""}${"Total"}%3A%2A%20S/${total}%0A%0A`;
 
