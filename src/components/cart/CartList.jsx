@@ -13,7 +13,7 @@ function CartList() {
         <AlertTitle mt={4} mb={1} fontSize="lg">
           No se te antoja comer!
         </AlertTitle>
-        <AlertDescription maxWidth="sm">A esta hora sabe bien un rico Ceviche Mixto..¡¡</AlertDescription>
+        <AlertDescription maxWidth="sm">A esta hora sabe bien un rico San Guchito..¡¡</AlertDescription>
       </Alert>
     );
   }
