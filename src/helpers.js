@@ -42,7 +42,7 @@ export const getFormValidations = () => {
       },
       pattern: {
         value: /^[0-9]{7,10}$/,
-        message: "Icorrect Phone",
+        message: "Incorrect Phone",
       },
     },
     //address
