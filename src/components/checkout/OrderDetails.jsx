@@ -9,7 +9,7 @@ function OrderDetails() {
   return (
     <Box w={["100%", "90%", "46%", "35%"]} height="max-content" p="4" mx="2">
       <Heading as="h3" size="md" textAlign="center">
-        Su Orden esta Lista..¡¡
+        Su Orden esta casi Lista..¡¡
       </Heading>
 
       <Flex direction="column" align="center" p="2" mt="4" overflowY="auto" w="100%" maxHeight="400px">
