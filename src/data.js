@@ -3,7 +3,7 @@ export default [
     id: "1",
     title: "DanyBur",
     price: 5.5,
-    offerPrice: 5.50,
+    offerPrice: null,
     stock: 12,
     img: "danybur.jpg",
     category: "hamburguesas",
@@ -12,7 +12,7 @@ export default [
     id: "2",
     title: "Juaneco",
     price: 7.50,
-    offerPrice: 7.50,
+    offerPrice: null,
     stock: 12,
     img: "juaneco.jpg",
     category: "hamburguesas",
@@ -56,7 +56,7 @@ export default [
   {
     id: "7",
     title: "Chorizo",
-    price: 2.00,
+    price: 2.50,
     offerPrice: null,
     stock: 12,
     img: "chorizo.jpg",
@@ -65,7 +65,7 @@ export default [
   {
     id: "8",
     title: "Papas",
-    price: 2.99,
+    price: 2.00,
     offerPrice: null,
     stock: 12,
     img: "papas.jpg",
@@ -74,8 +74,8 @@ export default [
   {
     id: "9",
     title: "DanyBur x 2 Unds",
-    price: 7.99,
-    offerPrice: 11.00,
+    price: 11.00,
+    offerPrice: 7.99,
     stock: 12,
     img: "daniburx2.jpg",
     category: "ofertas",
@@ -83,8 +83,8 @@ export default [
   {
     id: "11",
     title: "Juaneco x 2 Unds",
-    price: 10.99,
-    offerPrice: 15.00,
+    price: 15.00,
+    offerPrice: 10.99,
     stock: 12,
     img: "juanecox2.jpg",
     category: "ofertas",
@@ -92,8 +92,8 @@ export default [
   {
     id: "22",
     title: "WillPoli x 2 Unds",
-    price: 13.50,
-    offerPrice: 18.00,
+    price: 18.00,
+    offerPrice: 13.50,
     stock: 12,
     img: "willpolix2.jpg",
     category: "ofertas",
@@ -101,12 +101,61 @@ export default [
   {
     id: "33",
     title: "Carloncho x 2 Unds",
-    price: 18.00,
-    offerPrice: 24.00,
+    price: 24.00,
+    offerPrice: 18.00,
     stock: 12,
     img: "carlonchox2.jpg",
     category: "ofertas",
   },
+  {
+    id: "Gaseosa Helada/ sin Helar",
+    title: "Coca Cola 1.5Lt",
+    price: 6.99,
+    offerPrice: null,
+    stock: 12,
+    img: "cocacola1lt.jpg",
+    category: "bebida",
+  },
+
+  {
+    id: "Gaseosa Helada / Sin Helar",
+    title: "Inca Kola 1.5Lt",
+    price: 6.99,
+    offerPrice: null,
+    stock: 12,
+    img: "incakola1lt.jpg",
+    category: "bebida",
+  },
+
+  {
+    id: "coffe2",
+    title: "Café Nero Mocha Late",
+    price: 2.99,
+    offerPrice: null,
+    stock: 12,
+    img: "coffe2.jpg",
+    category: "bebida",
+  },
+  {
+    id: "coffe3",
+    title: "Nescafe Clasico Instant Coffee",
+    price: 1.99,
+    offerPrice: null,
+    stock: 12,
+    img: "coffe3.jpg",
+    category: "bebida",
+  },
+
+  {
+    id: "coffe4",
+    title: "Peet Coffee Decaf Major Dickason Blend",
+    price: 2.4,
+    offerPrice: 2.1,
+    stock: 12,
+    img: "coffe4.jpg",
+    category: "bebida",
+  },
+  ##
   {
     id: "44",
     title: "clemen feugiat dui",
@@ -372,53 +421,5 @@ export default [
     category: "postre",
   },
 
-  {
-    id: "Gaseosa Helada/ sin Helar",
-    title: "Coca Cola 1Lt",
-    price: 9.00,
-    offerPrice: null,
-    stock: 12,
-    img: "cocacola1lt.jpg",
-    category: "bebida",
-  },
-
-  {
-    id: "Gaseosa Helada / Sin Helar",
-    title: "Inca Kola 1 Lt",
-    price: 8.50,
-    offerPrice: null,
-    stock: 12,
-    img: "incakola1lt.jpg",
-    category: "bebida",
-  },
-
-  {
-    id: "coffe2",
-    title: "Caffee Nero Mocha Late",
-    price: 1.8,
-    offerPrice: null,
-    stock: 12,
-    img: "coffe2.jpg",
-    category: "bebida",
-  },
-
-  {
-    id: "coffe3",
-    title: "Nescafe Clasico Instant Coffee",
-    price: 2.2,
-    offerPrice: null,
-    stock: 12,
-    img: "coffe3.jpg",
-    category: "bebida",
-  },
-
-  {
-    id: "coffe4",
-    title: "Peet Coffee Decaf Major Dickason Blend",
-    price: 2.4,
-    offerPrice: 2.1,
-    stock: 12,
-    img: "coffe4.jpg",
-    category: "bebida",
-  },
+  
 ];
