@@ -50,7 +50,7 @@ export default [
     price: 1.50,
     offerPrice: null,
     stock: 12,
-    img: "queso.jpg",
+    img: "queso-chedar.PNG",
     category: "extra",
   },
   {
