@@ -108,10 +108,10 @@ function CheckoutForm() {
                   ref={register(validations.city)}
                   isInvalid={errors.city ? true : false}
                 >
-                  <option value="Carquín"> Carquín </option>
-                  <option value="Huacho"> Huacho </option>
-                  <option value="Hualmay"> Hualmay </option>
-                  <option value="Huaura"> Huaura </option>
+                  <option value="Barranca"> Barranca </option>
+                  <option value="Supe Puerto"> Supe Puerto </option>
+                  <option value="Supe Pueblo"> Supe Pueblo </option>
+                  <option value="Otro"> Otro </option>
                 </Select>
               </InputGroup>
               {errors.city && (
