@@ -14,7 +14,7 @@ export default [
     price: 7.50,
     offerPrice: null,
     stock: 12,
-    img: "juaneco.jpg",
+    img: "juaneco.jpeg",
     category: "hamburguesas",
   },
   {
@@ -23,7 +23,7 @@ export default [
     price: 9.00,
     offerPrice: null,
     stock: 12,
-    img: "willpoli.jpg",
+    img: "willpoli.jpeg",
     category: "hamburguesas",
   },
   {
@@ -32,7 +32,7 @@ export default [
     price: 12.00,
     offerPrice: null,
     stock: 12,
-    img: "carloncho.jpg",
+    img: "carloncho.jpeg",
     category: "hamburguesas",
   },
   {
