@@ -41,7 +41,7 @@ export default [
     price: 1.00,
     offerPrice: null,
     stock: 12,
-    img: "huevo.JPG",
+    img: "huevo.jpg",
     category: "extra",
   },
   {
@@ -50,7 +50,7 @@ export default [
     price: 1.50,
     offerPrice: null,
     stock: 12,
-    img: "queso-chedar.PNG",
+    img: "queso-chedar.jpg",
     category: "extra",
   },
   {
@@ -59,7 +59,7 @@ export default [
     price: 2.50,
     offerPrice: null,
     stock: 12,
-    img: "chorizo.PNG",
+    img: "chorizo.jpg",
     category: "extra",
   },
   {
@@ -68,7 +68,7 @@ export default [
     price: 2.00,
     offerPrice: null,
     stock: 12,
-    img: "papas.PNG",
+    img: "papas.jpg",
     category: "extra",
   },
   {
