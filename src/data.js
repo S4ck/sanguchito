@@ -77,7 +77,7 @@ export default [
     price: 11.00,
     offerPrice: 8.00,
     stock: 12,
-    img: "daniburx2.jpg",
+    img: "danyburx2.jpg",
     category: "ofertas",
   },
   {
