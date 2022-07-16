@@ -2,7 +2,7 @@ export default [
   {
     id: "1",
     title: "DanyBur",
-    price: 5.5,
+    price: 5.50,
     offerPrice: null,
     stock: 12,
     img: "danybur.jpg",
@@ -110,7 +110,7 @@ export default [
   {
     id: "Gaseosa Helada/ sin Helar",
     title: "Coca Cola 1.5Lt",
-    price: 6.99,
+    price: 7.00,
     offerPrice: null,
     stock: 12,
     img: "cocacola1lt.jpg",
@@ -120,7 +120,7 @@ export default [
   {
     id: "Gaseosa Helada / Sin Helar",
     title: "Inca Kola 1.5Lt",
-    price: 6.99,
+    price: 7.00,
     offerPrice: null,
     stock: 12,
     img: "incakola1lt.jpg",
@@ -130,7 +130,7 @@ export default [
   {
     id: "coffe2",
     title: "Café Nero Mocha Late",
-    price: 2.99,
+    price: 3.00,
     offerPrice: null,
     stock: 12,
     img: "coffe2.jpg",
@@ -139,7 +139,7 @@ export default [
   {
     id: "coffe3",
     title: "Nescafe Clasico Instant Coffee",
-    price: 1.99,
+    price: 2.00,
     offerPrice: null,
     stock: 12,
     img: "coffe3.jpg",
