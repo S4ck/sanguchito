@@ -59,7 +59,7 @@ export default [
     price: 2.50,
     offerPrice: null,
     stock: 12,
-    img: "chorizo.jpg",
+    img: "chorizo.PNG",
     category: "extra",
   },
   {
@@ -68,7 +68,7 @@ export default [
     price: 2.00,
     offerPrice: null,
     stock: 12,
-    img: "papas.jpg",
+    img: "papas.PNG",
     category: "extra",
   },
   {
