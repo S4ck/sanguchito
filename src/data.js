@@ -41,7 +41,7 @@ export default [
     price: 1.00,
     offerPrice: null,
     stock: 12,
-    img: "huevo.jpg",
+    img: "huevo.JPG",
     category: "extra",
   },
   {
