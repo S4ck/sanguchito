@@ -46,7 +46,7 @@ export default [
   },
   {
     id: "6",
-    title: "Queso",
+    title: "Queso Cheddar",
     price: 1.50,
     offerPrice: null,
     stock: 12,
@@ -64,7 +64,7 @@ export default [
   },
   {
     id: "8",
-    title: "Papas",
+    title: "Papas Fritas",
     price: 2.00,
     offerPrice: null,
     stock: 12,
