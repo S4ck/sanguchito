@@ -110,7 +110,7 @@ export default [
   {
     id: "Gaseosa Helada/ sin Helar",
     title: "Coca Cola 600ml",
-    price: 7.00,
+    price: 3.00,
     offerPrice: null,
     stock: 12,
     img: "coca-cola-600ml.jpg",
@@ -120,7 +120,7 @@ export default [
   {
     id: "Gaseosa Helada / Sin Helar",
     title: "Inca Kola 600ml",
-    price: 7.00,
+    price: 3.00,
     offerPrice: null,
     stock: 12,
     img: "inca-kola-600ml.jpg",
