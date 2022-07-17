@@ -109,21 +109,21 @@ export default [
   },
   {
     id: "Gaseosa Helada/ sin Helar",
-    title: "Coca Cola 1.5Lt",
+    title: "Coca Cola 600ml",
     price: 7.00,
     offerPrice: null,
     stock: 12,
-    img: "cocacola1lt.jpg",
+    img: "coca-cola-600ml.jpg",
     category: "bebida",
   },
 
   {
     id: "Gaseosa Helada / Sin Helar",
-    title: "Inca Kola 1.5Lt",
+    title: "Inca Kola 600ml",
     price: 7.00,
     offerPrice: null,
     stock: 12,
-    img: "incakola1lt.jpg",
+    img: "inca-kola-600ml.jpg",
     category: "bebida",
   },
 
