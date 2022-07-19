@@ -62,6 +62,7 @@ export default [
     img: "chorizo.jpg",
     category: "extra",
   },
+  /*
   {
     id: "8",
     title: "Papas Fritas",
@@ -107,6 +108,7 @@ export default [
     img: "carlonchox2.jpg",
     category: "ofertas",
   },
+  */
   {
     id: "Gaseosa Helada/ sin Helar",
     title: "Coca Cola 600ml",
