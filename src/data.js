@@ -14,7 +14,7 @@ export default [
     price: 7.50,
     offerPrice: null,
     stock: 12,
-    img: "juaneco.jpeg",
+    img: "juaneco.jpg",
     category: "hamburguesas",
   },
   {
@@ -23,7 +23,7 @@ export default [
     price: 9.00,
     offerPrice: null,
     stock: 12,
-    img: "willpoli.jpeg",
+    img: "willpoli.jpg",
     category: "hamburguesas",
   },
   {
@@ -32,7 +32,7 @@ export default [
     price: 12.00,
     offerPrice: null,
     stock: 12,
-    img: "carloncho.jpeg",
+    img: "carloncho.jpg",
     category: "hamburguesas",
   },
   {
@@ -62,16 +62,16 @@ export default [
     img: "chorizo.jpg",
     category: "extra",
   },
-  /*
-  {
+   {
     id: "8",
     title: "Papas Fritas",
-    price: 2.00,
+    price: 3.00,
     offerPrice: null,
     stock: 12,
     img: "papas.jpg",
     category: "extra",
   },
+   /*
   {
     id: "9",
     title: "DanyBur x 2 Unds",
