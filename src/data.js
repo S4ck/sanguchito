@@ -151,8 +151,8 @@ export default [
   {
     id: "coffe4",
     title: "Café Pasado Chanchamayo",
-    price: 2.4,
-    offerPrice: 2.1,
+    price: 3.5,
+    offerPrice: 3.0,
     stock: 12,
     img: "coffe4.jpg",
     category: "bebida",
