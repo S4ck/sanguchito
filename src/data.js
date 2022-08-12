@@ -131,7 +131,7 @@ export default [
 
   {
     id: "coffe2",
-    title: "Café Nero Mocha Late",
+    title: "Café Negro Mocha Late",
     price: 3.00,
     offerPrice: null,
     stock: 12,
@@ -140,7 +140,7 @@ export default [
   },
   {
     id: "coffe3",
-    title: "Nescafe Clasico Instant Coffee",
+    title: "Nescafe Clasico Instantantaneo",
     price: 2.00,
     offerPrice: null,
     stock: 12,
@@ -150,7 +150,7 @@ export default [
 
   {
     id: "coffe4",
-    title: "Peet Coffee Decaf Major Dickason Blend",
+    title: "Café Pasado Chanchamayo",
     price: 2.4,
     offerPrice: 2.1,
     stock: 12,
