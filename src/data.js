@@ -2,7 +2,7 @@ export default [
   {
     id: "1",
     title: "DanyBur",
-    price: 5.50,
+    price: 6.50,
     offerPrice: null,
     stock: 12,
     img: "danybur.jpg",
@@ -11,7 +11,7 @@ export default [
   {
     id: "2",
     title: "Juaneco",
-    price: 7.50,
+    price: 8.50,
     offerPrice: null,
     stock: 12,
     img: "juaneco.jpg",
@@ -20,7 +20,7 @@ export default [
   {
     id: "3",
     title: "WillPoli",
-    price: 9.00,
+    price: 10.00,
     offerPrice: null,
     stock: 12,
     img: "willpoli.jpg",
@@ -29,7 +29,7 @@ export default [
   {
     id: "4",
     title: "Carloncho",
-    price: 12.00,
+    price: 13.00,
     offerPrice: null,
     stock: 12,
     img: "carloncho.jpg",
@@ -38,7 +38,7 @@ export default [
   {
     id: "5",
     title: "Huevo",
-    price: 1.00,
+    price: 1.50,
     offerPrice: null,
     stock: 12,
     img: "huevo.JPG",
@@ -47,7 +47,7 @@ export default [
   {
     id: "6",
     title: "Queso Cheddar",
-    price: 1.50,
+    price: 2.00,
     offerPrice: null,
     stock: 12,
     img: "queso-chedar.jpg",
@@ -56,7 +56,7 @@ export default [
   {
     id: "7",
     title: "Chorizo",
-    price: 2.50,
+    price: 3.50,
     offerPrice: null,
     stock: 12,
     img: "chorizo.jpg",
@@ -65,7 +65,7 @@ export default [
    {
     id: "8",
     title: "Papas Fritas",
-    price: 3.00,
+    price: 3.50,
     offerPrice: null,
     stock: 12,
     img: "papas.jpg",
@@ -112,7 +112,7 @@ export default [
   {
     id: "Gaseosa Helada/ sin Helar",
     title: "Coca Cola 600ml",
-    price: 3.00,
+    price: 3.50,
     offerPrice: null,
     stock: 12,
     img: "coca-cola-600ml.jpg",
@@ -122,7 +122,7 @@ export default [
   {
     id: "Gaseosa Helada / Sin Helar",
     title: "Inca Kola 600ml",
-    price: 3.00,
+    price: 3.50,
     offerPrice: null,
     stock: 12,
     img: "inca-kola-600ml.jpg",
@@ -131,7 +131,7 @@ export default [
 
   {
     id: "coffe2",
-    title: "Café Negro Mocha Late",
+    title: "Café Negro Expreso Late",
     price: 3.00,
     offerPrice: null,
     stock: 12,
